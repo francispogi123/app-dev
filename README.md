@@ -27,6 +27,6 @@ My first repository
         Episode 1086: "A New Emperor! Buggy the Star Clown!"
 	  As the Straw Hats leave Wano, they find out their new bounties. Meanwhile, on Karai Bari Island, Mihawk and Crocodile confront
    	  Buggy for being portrayed as the clown's subordinates. However, they relent after they realize that it isn't the worst idea to
-      	  have Buggy bear the brunt of the Marines' attention and have him become one of the new Emperors of the Sea. Thus, the Cross
+	  have Buggy bear the brunt of the Marines' attention and have him become one of the new Emperors of the Sea. Thus, the Cross
 	  Guild is established with Buggy as the figurehead, and Mihawk and Crocodile as its Chief Officers.
 		 
